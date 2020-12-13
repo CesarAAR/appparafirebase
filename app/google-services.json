@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559591651361",
+    "project_id": "prueba-41805",
+    "storage_bucket": "prueba-41805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559591651361:android:ffc53fff3cc8f4156d0b60",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.appparafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559591651361-ksohsi10lp828u0kmt6e817hek1c7ivv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.tecnm.tepic.appparafirebase",
+            "certificate_hash": "a86e58f1d64f98f3f10b6d92a6310064cdce505d"
+          }
+        },
+        {
+          "client_id": "559591651361-b99him4f70p0o7ccjne9npn45hnsq8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bs7YPsSbY1BqWTHMO8LqlhhIVONR4h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559591651361-b99him4f70p0o7ccjne9npn45hnsq8nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
